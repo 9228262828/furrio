@@ -17,7 +17,7 @@ const _sky = Color(0xFFE8F8FF);
 const _petsKey = 'furrio.pets.v1';
 const _darkKey = 'furrio.dark.v1';
 const _version = '1.0.0';
-const _lastUpdated = 'June 29, 2026';
+const _lastUpdated = 'june, 2026';
 
 class FurrioApp extends StatefulWidget {
   const FurrioApp({super.key});
